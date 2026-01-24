@@ -7,10 +7,7 @@
 🤖 Machine Learning & Computer Vision Enthusiast  
 
 ## 🔧 Skills
-- Python, Django, Django REST Framework
-- FastAPI, MongoDB, PostgreSQL
-- Machine Learning, YOLO, OpenCV
-- Git & GitHub
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 
 ## 🚀 Projects
 - 🔍 Real-Time Object Detection using YOLOv8
