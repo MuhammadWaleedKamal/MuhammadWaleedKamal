@@ -15,7 +15,7 @@
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-D84315?style=flat-square&logo=spacy&logoColor=FFF3E0)
 ![Data Science](https://img.shields.io/badge/Data_Science-00838F?style=flat-square&logo=python&logoColor=FFD43B)
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-F9A825?style=flat-square&logo=googleanalytics&logoColor=1A237E)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![Power BI](https://img.shields.io/badge/Power_BI-F9A825?style=flat-square&logo=powerbi&logoColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=flat-square&logo=tableau&logoColor=FFFFFF)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=E8F5E9)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=AEDFF7)
