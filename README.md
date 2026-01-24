@@ -9,12 +9,13 @@
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-green?style=flat-square&logo=mysql&logoColor=blue)
-![ML](https://img.shields.io/badge/ML-2E7D32?style=flat-square&logo=tensorflow&logoColor=white)
-![DL](https://img.shields.io/badge/DL-6A1B9A?style=flat-square&logo=pytorch&logoColor=white)
-![CV](https://img.shields.io/badge/CV-1565C0?style=flat-square&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-D84315?style=flat-square&logo=spacy&logoColor=white)
-![Data%20Science](https://img.shields.io/badge/Data_Science-00838F?style=flat-square&logo=python&logoColor=white)
-![Data%20Analyst](https://img.shields.io/badge/Data_Analyst-F9A825?style=flat-square&logo=googleanalytics&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2E7D32?style=flat-square&logo=tensorflow&logoColor=FFEB3B)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A1B9A?style=flat-square&logo=pytorch&logoColor=FF9800)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1565C0?style=flat-square&logo=opencv&logoColor=81D4FA)
+![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-D84315?style=flat-square&logo=spacy&logoColor=FFF3E0)
+![Data Science](https://img.shields.io/badge/Data_Science-00838F?style=flat-square&logo=python&logoColor=FFD43B)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-F9A825?style=flat-square&logo=googleanalytics&logoColor=1A237E)
+
 
 
 
