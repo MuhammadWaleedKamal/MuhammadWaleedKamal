@@ -8,7 +8,8 @@
 
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=sql)
+![sql](https://img.shields.io/badge/sql-blue%3Flogo%3Dsql)
+
 
 ## 🚀 Projects
 - 🔍 Real-Time Object Detection using YOLOv8
