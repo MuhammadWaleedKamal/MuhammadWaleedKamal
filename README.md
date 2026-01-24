@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Waleed Kamal 👋
+# Hi, I'm Muhammad Waleed Kamal 👋
 
 🎓 I am pursuing a BS in Artificial Intelligence and am an AI enthusiast with strong experience as a Backend Developer working with Django, Django REST Framework, and FastAPI. I am passionate about building intelligent, real-world solutions that combine robust backend systems with Machine Learning and Computer Vision technologies.
 
