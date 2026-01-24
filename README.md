@@ -7,7 +7,7 @@
 🤖 Machine Learning & Computer Vision Enthusiast  
 
 ## 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 
 ## 🚀 Projects
 - 🔍 Real-Time Object Detection using YOLOv8
