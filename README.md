@@ -2,9 +2,7 @@
 
 # Hi, I'm Waleed Kamal 👋
 
-🎓 BS in Artificial Intelligence  
-💻 Backend Developer (Django, DRF, FastAPI)  
-🤖 Machine Learning & Computer Vision Enthusiast  
+🎓 I am pursuing a BS in Artificial Intelligence and am an AI enthusiast with strong experience as a Backend Developer working with Django, Django REST Framework, and FastAPI. I am passionate about building intelligent, real-world solutions that combine robust backend systems with Machine Learning and Computer Vision technologies.
 
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
@@ -29,9 +27,9 @@
 
 ## 🚀 Projects
 - 🔍 Real-Time Object Detection using YOLOv8
-- 📦 Inventory Management System (Django + DRF)
+- 📦 Inventory Management System (Django + JSON)
 - 📊 Excel Automation & Data Analysis Tools
-- 💬 WhatsApp Automation Tool (Python)
+- 📷 Automatic ScreenShot Taker App (Python)
 
 ## 📚 Currently Learning
 - Advanced Machine Learning
@@ -39,6 +37,6 @@
 - Model Optimization Techniques
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourname@gmail.com
+- LinkedIn: www.linkedin.com/in/muhammad-waleed-kamal-3910422b3[LinkedIn Profile]
+- Email: waleedkamal801@gmail.com[Email]
 
