@@ -18,13 +18,13 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=flat-square&logo=tableau&logoColor=FFFFFF)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=E8F5E9)
-![C](https://img.shields.io/badge/C_Programming-00599C?style=flat-square&logo=c&logoColor=AEDFF7)
-![C++](https://img.shields.io/badge/C++_Programming-004482?style=flat-square&logo=cplusplus&logoColor=E3F2FD)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-6A1B9A?style=flat-square&logo=java&logoColor=FFCC80)
-![Django](https://img.shields.io/badge/Django_Framework-092E20?style=flat-square&logo=django&logoColor=C8E6C9)
-![FastAPI](https://img.shields.io/badge/FastAPI_Framework-009688?style=flat-square&logo=fastapi&logoColor=E0F2F1)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=AEDFF7)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=E3F2FD)
+![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=flat-square&logo=java&logoColor=FFCC80)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=C8E6C9)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=E0F2F1)
 ![Web Developer](https://img.shields.io/badge/Web_Developer-E34F26?style=flat-square&logo=html5&logoColor=FFF3E0)
-![CIT](https://img.shields.io/badge/Certificate_in_Information_Technology-455A64?style=flat-square&logo=education&logoColor=ECEFF1)
+![CIT](https://img.shields.io/badge/CIT-455A64?style=flat-square&logo=education&logoColor=ECEFF1)
 
 
 ## 🚀 Projects
