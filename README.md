@@ -9,6 +9,12 @@
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-green?style=flat-square&logo=mysql&logoColor=blue)
+![ML](https://img.shields.io/badge/ML-2E7D32?style=flat-square)
+![DL](https://img.shields.io/badge/DL-2E7D32?style=flat-square)
+![CV](https://img.shields.io/badge/Computer_Vision-2E7D32?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-2E7D32?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data_Science-2E7D32?style=flat-square)
+
 
 ## 🚀 Projects
 - 🔍 Real-Time Object Detection using YOLOv8
