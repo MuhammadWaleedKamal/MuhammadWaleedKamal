@@ -35,7 +35,7 @@
 - Model Optimization Techniques
 
 ## 📫 Connect with Me
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/muhammad-waleed-kamal-3910422b3)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/muhammad-waleed-kamal-3910422b3)
 - Email: waleedkamal801@gmail.com
 - Contact: +92-3242923319
 
